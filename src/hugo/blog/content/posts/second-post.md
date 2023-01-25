@@ -11,7 +11,7 @@ showFullContent = false
 readingTime = false
 hideComments = false
 color = "" #color from the theme settings
-draft = true
+draft = false
 +++
 
-This is the 2nd post
+This is the 2nd post is modified now
